@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3084151463
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72cb78856a0c95a762746f0e481bea85
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2636f03326329324e4a2690e2636360
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/SkinMods/FrostRaySkinPack/Meshes/Bandit2CoatMesh.mesh
+- Assets/SkinMods/FrostRaySkinPack/Meshes/Bandit2HatMesh.mesh
+- Assets/SkinMods/FrostRaySkinPack/Icons/MercKitsuneIcon.png
+- Assets/Resources/marGreenBandit.mat
+- Assets/SkinMods/FrostRaySkinPack/Meshes/Bandit2BodyMesh.mesh
+- Assets/SkinMods/FrostRaySkinPack/Icons/GreenBanditSkinIcon.png
+- Assets/Resources/marKitsune.mat
+- Assets/Resources/marGreenBanditShotgun.mat
+- Assets/Resources/marBanditBody.mat
+- Assets/Resources/marHuntress.mat
+- Assets/SkinMods/FrostRaySkinPack/Meshes/MercMesh.mesh
+- Assets/SkinMods/FrostRaySkinPack/Meshes/BanditShotgunMesh.mesh
+- Assets/SkinMods/FrostRaySkinPack/Meshes/BowMesh.mesh
+- Assets/SkinMods/FrostRaySkinPack/Meshes/HuntressMesh.mesh
+- Assets/Resources/marGreenBanditHat.mat
+- Assets/SkinMods/FrostRaySkinPack/Icons/HuntressRangerIcon.png
+- Assets/Resources/marHuntressCape.mat
+Dependencies: []

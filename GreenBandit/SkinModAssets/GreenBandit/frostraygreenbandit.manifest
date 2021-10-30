@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4111622485
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3562cfd81516c5105c082c3076486186
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2636f03326329324e4a2690e2636360
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/SkinMods/GreenBandit/Icons/GreenBanditSkinIcon.png
+- Assets/SkinMods/GreenBandit/Meshes/BanditShotgunMesh.mesh
+- Assets/Resources/marGreenBandit.mat
+- Assets/Resources/marGreenBanditShotgun.mat
+- Assets/Resources/marBanditBody.mat
+- Assets/SkinMods/GreenBandit/Meshes/Bandit2CoatMesh.mesh
+- Assets/Resources/marGreenBanditHat.mat
+- Assets/SkinMods/GreenBandit/Meshes/Bandit2HatMesh.mesh
+- Assets/SkinMods/GreenBandit/Meshes/Bandit2BodyMesh.mesh
+Dependencies: []

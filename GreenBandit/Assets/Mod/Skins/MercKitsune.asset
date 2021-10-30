@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7be09e9a22eec4d4aa1b735607c1881c, type: 3}
+  m_Name: MercKitsune
+  m_EditorClassIdentifier: 
+  modDependency:
+    value: 
+    type: 0
+  config:
+    generateEnableConfig: 1
+    enableConfigDefaultValue: 1
+    isExpanded: 1
+  bodyName: MercBody
+  nameTokenLocalizations:
+  - language: en
+    value: Kitsune
+  icon:
+    createFromColors: 1
+    sprite: {fileID: 0}
+    colors:
+      left:
+        serializedVersion: 2
+        rgba: 2460735
+      top:
+        serializedVersion: 2
+        rgba: 15527148
+      right:
+        serializedVersion: 2
+        rgba: 658079
+      bottom:
+        serializedVersion: 2
+        rgba: 1710626
+    isExpanded: 1
+  unlockableName: 
+  baseSkins:
+  - accessType: 0
+    name: 
+    index: 0
+    isExpanded: 1
+  renderersSource: 0
+  meshReplacements:
+  - mesh: {fileID: 4300002, guid: 4d33d51000336ae4d83d9fe527d352f5, type: 3}
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 3
+      isExpanded: 1
+  gameObjectActivations: []
+  rendererInfos:
+  - defaultMaterial: {fileID: 2100000, guid: c6cac8788dc2e8f4c86cb54b4d05b7a6, type: 2}
+    defaultShadowCastingMode: 1
+    ignoreOverlays: 0
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 3
+      isExpanded: 1
+  minionSkinReplacements: []
+  projectileGhostReplacements: []

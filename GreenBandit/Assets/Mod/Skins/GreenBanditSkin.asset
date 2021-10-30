@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7be09e9a22eec4d4aa1b735607c1881c, type: 3}
+  m_Name: GreenBanditSkin
+  m_EditorClassIdentifier: 
+  modDependency:
+    value: 
+    type: 0
+  config:
+    generateEnableConfig: 1
+    enableConfigDefaultValue: 1
+    isExpanded: 1
+  bodyName: Bandit2Body
+  nameTokenLocalizations:
+  - language: en
+    value: Bushwhacked
+  icon:
+    createFromColors: 1
+    sprite: {fileID: 0}
+    colors:
+      left:
+        serializedVersion: 2
+        rgba: 2463770
+      top:
+        serializedVersion: 2
+        rgba: 14408667
+      right:
+        serializedVersion: 2
+        rgba: 3815994
+      bottom:
+        serializedVersion: 2
+        rgba: 1907999
+    isExpanded: 1
+  unlockableName: 
+  baseSkins:
+  - accessType: 0
+    name: 
+    index: 0
+    isExpanded: 1
+  renderersSource: 0
+  meshReplacements:
+  - mesh: {fileID: 4300008, guid: 454215e77b56a074ea319983a6ca45eb, type: 3}
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 2
+      isExpanded: 1
+  - mesh: {fileID: 4300012, guid: 454215e77b56a074ea319983a6ca45eb, type: 3}
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 3
+      isExpanded: 1
+  - mesh: {fileID: 4300004, guid: 454215e77b56a074ea319983a6ca45eb, type: 3}
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 4
+      isExpanded: 1
+  - mesh: {fileID: 4300002, guid: 454215e77b56a074ea319983a6ca45eb, type: 3}
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 6
+      isExpanded: 1
+  gameObjectActivations: []
+  rendererInfos:
+  - defaultMaterial: {fileID: 2100000, guid: 5735e0f87f5c8a745bcc049d05078c1a, type: 2}
+    defaultShadowCastingMode: 1
+    ignoreOverlays: 0
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 2
+      isExpanded: 1
+  - defaultMaterial: {fileID: 2100000, guid: a01c19f6e8c897b48881b62a254fa47c, type: 2}
+    defaultShadowCastingMode: 1
+    ignoreOverlays: 0
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 3
+      isExpanded: 1
+  - defaultMaterial: {fileID: 2100000, guid: b5c584c869b92ff4db6ca48ac57b7536, type: 2}
+    defaultShadowCastingMode: 1
+    ignoreOverlays: 0
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 4
+      isExpanded: 1
+  - defaultMaterial: {fileID: 2100000, guid: f0375c6d57e72084f938c2b2c445dc05, type: 2}
+    defaultShadowCastingMode: 1
+    ignoreOverlays: 0
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 6
+      isExpanded: 1
+  minionSkinReplacements: []
+  projectileGhostReplacements: []

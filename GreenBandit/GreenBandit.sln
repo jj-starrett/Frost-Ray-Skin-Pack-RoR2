@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrostRaySkinPack", "FrostRaySkinPack.csproj", "{FC15753E-68BD-CBE6-9EF7-56921020CDC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenBandit", "GreenBandit.csproj", "{FADEBEBB-F41B-107A-91EA-EE5F9966F063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC15753E-68BD-CBE6-9EF7-56921020CDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC15753E-68BD-CBE6-9EF7-56921020CDC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC15753E-68BD-CBE6-9EF7-56921020CDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC15753E-68BD-CBE6-9EF7-56921020CDC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FADEBEBB-F41B-107A-91EA-EE5F9966F063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADEBEBB-F41B-107A-91EA-EE5F9966F063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADEBEBB-F41B-107A-91EA-EE5F9966F063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADEBEBB-F41B-107A-91EA-EE5F9966F063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
