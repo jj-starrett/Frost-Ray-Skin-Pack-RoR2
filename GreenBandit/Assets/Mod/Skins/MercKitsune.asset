@@ -48,7 +48,7 @@ MonoBehaviour:
     isExpanded: 1
   renderersSource: 0
   meshReplacements:
-  - mesh: {fileID: 4300002, guid: 4d33d51000336ae4d83d9fe527d352f5, type: 3}
+  - mesh: {fileID: 4300002, guid: 70a747549e6236045a29457f4ef6618a, type: 3}
     rendererReference:
       accessType: 0
       name: 

@@ -28,10 +28,8 @@ namespace FrostRaySkinPack
         
         private static AssetBundle assetBundle;
         private static readonly List<Material> materialsWithRoRShader = new List<Material>();
-        private void Awake()
+        private void Start()
         {
-            Instance = this;
-            BeforeAwake();
             using (var assetStream = Assembly.GetExecutingAssembly().GetManifestResourceStream("FrostRaySkinPack.frostrayfrostrayskinpack"))
             {
                 assetBundle = AssetBundle.LoadFromStream(assetStream);
@@ -41,7 +39,12 @@ namespace FrostRaySkinPack
             HookEndpointManager.Add(typeof(Language).GetMethod(nameof(Language.LoadStrings)), (Action<Action<Language>, Language>)LanguageLoadStrings);
 
             ReplaceShaders();
+        }
 
+        private void Awake()
+        {
+            Instance = this;
+            BeforeAwake();
             AfterAwake();
         }
 

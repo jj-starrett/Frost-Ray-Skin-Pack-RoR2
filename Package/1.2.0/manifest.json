@@ -1,0 +1,9 @@
+{
+  "name": "Frost_Ray_Skin_Pack",
+  "version_number": "1.2.0",
+  "website_url": "",
+  "description": "Adds a few skins. Currently adds a green skin to Bandit, Mercenary, and Huntress.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.3.1"
+  ]
+}
